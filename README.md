@@ -78,7 +78,7 @@
 
 ###
 
-<img align="left" height="180" src="https://i.imgflip.com/7jhoob.png"  />
+<img align="left" height="180" src="assets/char_01.webp"  />
 
 ###
 
