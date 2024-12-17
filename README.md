@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is Santo, and I'm a Full Stack Developer from India.</h2>
+<h2 align="center">Hi 👋! My name is Santo and I'm a Full Stack Developer, from India.</h2>
 
 ###
 
@@ -60,6 +60,7 @@
 <h4 align="left">print(socialLinks):</h4>
 
 ###
+<img align="left" height="100" src="assets/char_01.webp"  />
 
 <div align="center">
   <a href="https://www.instagram.com/santhosh_chinraj/" target="_blank">
@@ -75,10 +76,9 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
 ###
 
-<img align="left" height="180" src="assets/char_01.webp"  />
+<h4 align="left">print(contributions):</h4>
 
 ###
 
