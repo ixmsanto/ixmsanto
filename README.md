@@ -82,6 +82,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ixmsanto/ixmsanto/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ixmsanto/ixmsanto/output/github-snake.svg" alt="Snake animation" />
 
 ###
