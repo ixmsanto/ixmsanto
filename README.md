@@ -63,10 +63,6 @@
 
 
 ###
-
-<h4 align="left">print(socialLinks):</h4>
-
-###
 <img align="left" height="100" src="assets/char_01.webp"  />
 
 <div align="center">
